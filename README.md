@@ -25,6 +25,3 @@
 * Structuring a Python project for **readability**, **maintainability**, and **scalability**.
 
 ---
-
-
-Do you want me to do that next?
